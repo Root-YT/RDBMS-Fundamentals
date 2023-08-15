@@ -1,3 +1,3 @@
 # Welcome to Root - IT Youtube Channel
 ## RDBMS-Fundamentals 
-Repository for the users of the RDBMS Fundamentals Youtube Playlist.
+Repository for the users of the RDBMS Fundamentals YouTube Playlist.
